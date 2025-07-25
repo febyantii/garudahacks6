@@ -1,5 +1,5 @@
 
-# RuangNusa — Digital Culture Gallery of Indonesia
+# RuangNusa 
 
 **RuangNusa** is an interactive mobile application designed to celebrate, share, and explore the diverse cultures across the Indonesian archipelago. From traditional food to dances, festivals, and customs, RuangNusa connects communities through stories, visuals, and AI-powered conversation.
 
